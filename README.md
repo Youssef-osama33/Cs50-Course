@@ -1,14 +1,69 @@
-# 🚀 CS50x 2025 Learning Companion: A Detailed Study Resource
+# 🎓 CS50x 2025 Mastery: The Ultimate Learning Companion
 
-> **Welcome to the CS50x 2025 Learning Companion!** This repository serves as a structured, detailed supplement for students undertaking Harvard University's renowned **CS50x: Introduction to Computer Science** course for the current academic year. Our goal is to enhance your learning experience by providing organized notes, key concept breakdowns, and strategic guidance.
+> [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+> [![GitHub contributors](https://img.shields.io/github/contributors/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.svg)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/graphs/contributors)
+>
+> **Welcome to the definitive learning resource for CS50x 2025.** This repository is meticulously structured to provide **high-quality, organized, and supplementary notes** to aid your journey through Harvard's Introduction to Computer Science.
 
 ---
 
-## 💡 What is CS50x 2025?
+## 🎯 Table of Contents
 
-CS50x is a comprehensive introduction to the intellectual enterprise of computer science and the art of programming. It is designed for both majors and non-majors with little to no prior programming experience. The 2025 version continues to emphasize computational thinking, problem-solving, and practical application across various technologies.
+* [💡 Course Overview & Philosophy](#-course-overview--philosophy)
+* [🗺️ The 2025 Roadmap](#️-the-2025-roadmap)
+* [🚀 Getting Started](#-getting-started)
+* [📚 Contribution & Support](#-contribution--support)
+* [🔗 Official Resources](#-official-resources)
 
-**Why Use This Companion?**
+---
+
+## 💡 Course Overview & Philosophy
+
+CS50x is more than just a programming course; it's a foundation in **computational thinking**. This companion repository aims to solidify your understanding by:
+
+* **Deconstructing Complex Concepts:** Providing clear explanations of algorithms and data structures.
+* **Structured Study:** Offering notes and summaries mapped directly to the weekly lectures.
+* **Focus on Problem Solving:** Guiding you towards solutions without giving away the answers.
+
+> **Our Core Principle:** Learning is an active process. We prioritize conceptual understanding over rote memorization or easy solutions.
+
+## 🗺️ The 2025 Roadmap
+
+This table details the content covered in each week of the CS50x 2025 curriculum.
+
+| Week | Topic Focus | Key Concepts | Status | Notes Link |
+| :---: | :---: | :---: | :---: | :---: |
+| **0** | **Scratch & Binary** | Abstraction, Algorithms, Scratch Syntax | ✅ Complete | [Go to Week 0 Notes](Weeks/Week_0_Scratch_Binary.md) |
+| **1** | **C Fundamentals** | Pointers, Memory Allocation, Data Types | ✅ Complete | [Go to Week 1 Notes](Weeks/Week_1_C_Fundamentals.md) |
+| **2** | **Arrays & Algorithms** | Searching (Linear/Binary), Sorting (Bubble/Selection) | 🚧 In Progress | [Week 2 Draft](Weeks/Week_2_Algorithms.md) |
+| **3** | **Memory & Pointers II** | Stack vs. Heap, Segmentation Faults, Debugging | 🚧 In Progress | Coming Soon... |
+| **4** | **Data Structures** | Linked Lists, Hash Tables, Trees | ❌ Not Started | - |
+| **5** | **Python** | High-level Syntax, Libraries, OOP Basics | ❌ Not Started | - |
+| **6** | **SQL** | Relational Databases, Queries (SELECT, JOIN) | ❌ Not Started | - |
+| **7** | **Web Development** | HTML, CSS, JavaScript (DOM) | ❌ Not Started | - |
+| **8** | **Flask Framework** | Routing, Templates, APIs | ❌ Not Started | - |
+| **9** | **Cybersecurity & Ethics** | SQL Injection, XSS, Digital Citizenship | ❌ Not Started | - |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Official Enrollment
+
+Ensure you are enrolled in the official [CS50x 2025 Track on edX](https://www.edx.org/course/cs50s-introduction-to-computer-science-and-programming-2).
+
+### 2. P-Set Policy (Crucial!)
+
+**We strictly adhere to CS50's academic honesty policy.**
+
+> 🛑 **NO DIRECT SOLUTIONS:** This repository **WILL NOT** contain direct, copy-pasteable solutions to any Problem Set.
+>
+> * **What we provide:** Conceptual breakdowns, necessary library function reminders, and strategic **pseudocode** to guide your implementation.
+
+### 3. Repository Structure
+
+All detailed notes and summaries are located in the dedicated `Weeks/` directory:
+
 
 * **Organized Structure:** Notes mapped directly to the official CS50x 2025 lecture weeks.
 * **Key Concept Summaries:** Quick reference guides for crucial algorithms, data structures, and syntax.
