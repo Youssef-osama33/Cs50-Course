@@ -62,7 +62,7 @@ For each week, navigate to the `Weeks` folder and look for the corresponding fil
 
 ## 🛠️ Additional Resources and References
 
-* **Official CS50 Website:** [https://cs50.harvard.edu/x/2023/](https://cs50.harvard.edu/x/2023/)
+* **Official CS50 Website:** [https://cs50.harvard.edu/x/2025/](https://cs50.harvard.edu/x/2025/)
 * **C Reference Guide:** [Link to a comprehensive C language reference]
 * **CS50 YouTube Channel:** [Official CS50 YouTube Channel (for lecture review)]
 
