@@ -1,17 +1,55 @@
-# 💻 CS50 Learning Companion: Your Guide to Computer Science Fundamentals
+# 🚀 CS50x 2025 Learning Companion: A Detailed Study Resource
 
-> **Welcome to the CS50 Learning Companion!** This repository is dedicated to students tackling Harvard University's renowned introductory computer science course, **CS50x**. The goal is to provide **structured resources, detailed notes,** and supplementary explanations to help you master fundamental CS concepts and algorithms.
+> **Welcome to the CS50x 2025 Learning Companion!** This repository serves as a structured, detailed supplement for students undertaking Harvard University's renowned **CS50x: Introduction to Computer Science** course for the current academic year. Our goal is to enhance your learning experience by providing organized notes, key concept breakdowns, and strategic guidance.
 
 ---
 
-## 💡 Overview of CS50x
+## 💡 What is CS50x 2025?
 
-CS50x is an entry-level course that teaches students how to think algorithmically and solve problems effectively. It's a broad and challenging introduction to the intellectual enterprises of computer science and the art of programming.
+CS50x is a comprehensive introduction to the intellectual enterprise of computer science and the art of programming. It is designed for both majors and non-majors with little to no prior programming experience. The 2025 version continues to emphasize computational thinking, problem-solving, and practical application across various technologies.
 
-**Why Use This Repository?**
+**Why Use This Companion?**
 
-* **Structured Notes:** Organized summaries of key concepts and terminology for each week.
-* **Simplified Explanations:** Breaking down difficult topics into digestible chunks.
+* **Organized Structure:** Notes mapped directly to the official CS50x 2025 lecture weeks.
+* **Key Concept Summaries:** Quick reference guides for crucial algorithms, data structures, and syntax.
+* **Strategic Hints:** Guidance on approaching Problem Sets (P-Sets) without compromising the self-discovery process.
+
+---
+
+## 🛣️ Course Roadmap (CS50x 2025 Weeks)
+
+| Week | Core Topic | Languages/Concepts | Status | Notes Link |
+| :---: | :---: | :---: | :---: | :---: |
+| **0** | Scratch and Binary | Computational Thinking | ✅ Complete | [Notes: Week 0](Weeks/Week_0_Scratch_Binary.md) |
+| **1** | C Fundamentals | C Programming, Pointers | ✅ Complete | [Notes: Week 1](Weeks/Week_1_C_Fundamentals.md) |
+| **2** | Algorithms | Arrays, Searching, Sorting | 🚧 In Progress | Coming Soon... |
+| **3** | Memory | Pointers, Address Space | 🚧 In Progress | Coming Soon... |
+| **4** | Data Structures | Linked Lists, Hash Tables | ❌ Not Available | - |
+| **5** | Python | High-Level Programming | ❌ Not Available | - |
+| **6** | SQL | Databases, Relational Models | ❌ Not Available | - |
+| **7** | Web Development | HTML, CSS, JavaScript | ❌ Not Available | - |
+| **8** | Flask | Web Applications, APIs | ❌ Not Available | - |
+| **9** | Ethics and AI | Machine Learning (Optional) | ❌ Not Available | - |
+
+---
+
+## 📚 Getting Started with CS50x 2025
+
+1.  **Enroll:** Register for the official [CS50x course on edX](https://www.edx.org/course/cs50s-introduction-to-computer-science-and-programming-2) (ensure you are on the 2025 track).
+2.  **Development Environment:** Set up your environment using the recommended **CS50 VS Code Environment** or the local VS Code installation.
+
+### 🎯 P-Set Guidance Policy
+
+> **⚠️ ATTENTION:** To preserve the integrity of the course and maximize your learning, **direct Problem Set solutions are strictly prohibited.**
+>
+> * We provide **strategic hints, pseudocode structure, and conceptual reminders** within the weekly notes files to guide your thinking. Please treat this repository as a supplementary study aid, not a solution manual.
+
+---
+
+## 📂 Repository Structure
+
+The core learning materials are organized within the `Weeks` directory:
+
 * **Guidance and Hints:** Providing direction on how to approach the Problem Sets without giving away the solutions.
 
 ---
