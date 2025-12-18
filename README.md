@@ -1,173 +1,114 @@
-# 🎓 CS50x 2025 Mastery: The Ultimate Learning Companion
+# 🎓 CS50x Guide: The Ultimate Roadmap
 
-> [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-> [![GitHub contributors](https://img.shields.io/github/contributors/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.svg)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/graphs/contributors)
->
-> **Welcome to the definitive learning resource for CS50x 2025.** This repository is meticulously structured to provide **high-quality, organized, and supplementary notes** to aid your journey through Harvard's Introduction to Computer Science.
+<p align="center">
+  <img src="https://img.shields.io/badge/Course-CS50x-red?style=for-the-badge&logo=harvard">
+  <img src="https://img.shields.io/badge/Language-Arabic%20%2F%20English-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge">
+</p>
+
 
 ---
 
-## 🎯 Table of Contents
+## 🌍 1. What is CS50x? | ما هو CS50x؟
 
-* [💡 Course Overview & Philosophy](#-course-overview--philosophy)
-* [🗺️ The 2025 Roadmap](#️-the-2025-roadmap)
-* [🚀 Getting Started](#-getting-started)
-* [📚 Contribution & Support](#-contribution--support)
-* [🔗 Official Resources](#-official-resources)
+هو كورس مقدمة في علوم الحاسب من جامعة **هارفارد** العريقة. يبدأ معك من الصفر المطلق ولا يتطلب أي خبرة مسبقة، وهو متاح مجاناً للجميع عبر منصة edX.
 
----
+It is an entry-level course into computer science from **Harvard University**. It starts from absolute zero and requires no prior experience, available for free to everyone via edX.
 
-## 💡 Course Overview & Philosophy
-
-CS50x is more than just a programming course; it's a foundation in **computational thinking**. This companion repository aims to solidify your understanding by:
-
-* **Deconstructing Complex Concepts:** Providing clear explanations of algorithms and data structures.
-* **Structured Study:** Offering notes and summaries mapped directly to the weekly lectures.
-* **Focus on Problem Solving:** Guiding you towards solutions without giving away the answers.
-
-> **Our Core Principle:** Learning is an active process. We prioritize conceptual understanding over rote memorization or easy solutions.
-
-## 🗺️ The 2025 Roadmap
-
-This table details the content covered in each week of the CS50x 2025 curriculum.
-
-| Week | Topic Focus | Key Concepts | Status | Notes Link |
-| :---: | :---: | :---: | :---: | :---: |
-| **0** | **Scratch & Binary** | Abstraction, Algorithms, Scratch Syntax | ✅ Complete | [Go to Week 0 Notes](Weeks/Week_0_Scratch_Binary.md) |
-| **1** | **C Fundamentals** | Pointers, Memory Allocation, Data Types | ✅ Complete | [Go to Week 1 Notes](Weeks/Week_1_C_Fundamentals.md) |
-| **2** | **Arrays & Algorithms** | Searching (Linear/Binary), Sorting (Bubble/Selection) | 🚧 In Progress | [Week 2 Draft](Weeks/Week_2_Algorithms.md) |
-| **3** | **Memory & Pointers II** | Stack vs. Heap, Segmentation Faults, Debugging | 🚧 In Progress | Coming Soon... |
-| **4** | **Data Structures** | Linked Lists, Hash Tables, Trees | ❌ Not Started | - |
-| **5** | **Python** | High-level Syntax, Libraries, OOP Basics | ❌ Not Started | - |
-| **6** | **SQL** | Relational Databases, Queries (SELECT, JOIN) | ❌ Not Started | - |
-| **7** | **Web Development** | HTML, CSS, JavaScript (DOM) | ❌ Not Started | - |
-| **8** | **Flask Framework** | Routing, Templates, APIs | ❌ Not Started | - |
-| **9** | **Cybersecurity & Ethics** | SQL Injection, XSS, Digital Citizenship | ❌ Not Started | - |
+* **Provider:** Harvard University.
+* **Cost:** Free (Optional Certificate).
+* **Duration:** Self-paced (3–6 Months).
 
 ---
 
-## 🚀 Getting Started
+## 🎯 2. The Real Goal | الهدف الحقيقي
 
-### 1. Official Enrollment
+الهدف ليس مجرد "تعلم البرمجة" بل إتقان **التفكير الحاسوبي**. الكورس يبني أساساً متيناً في علوم الحاسب يجعلك قادراً على تعلم أي تقنية مستقبلاً بعمق وفهم، وليس مجرد كتابة كود لا تعرف كيف يعمل.
 
-Ensure you are enrolled in the official [CS50x 2025 Track on edX](https://www.edx.org/course/cs50s-introduction-to-computer-science-and-programming-2).
-
-### 2. P-Set Policy (Crucial!)
-
-**We strictly adhere to CS50's academic honesty policy.**
-
-> 🛑 **NO DIRECT SOLUTIONS:** This repository **WILL NOT** contain direct, copy-pasteable solutions to any Problem Set.
->
-> * **What we provide:** Conceptual breakdowns, necessary library function reminders, and strategic **pseudocode** to guide your implementation.
-
-### 3. Repository Structure
-
-All detailed notes and summaries are located in the dedicated `Weeks/` directory:
-
-
-* **Organized Structure:** Notes mapped directly to the official CS50x 2025 lecture weeks.
-* **Key Concept Summaries:** Quick reference guides for crucial algorithms, data structures, and syntax.
-* **Strategic Hints:** Guidance on approaching Problem Sets (P-Sets) without compromising the self-discovery process.
+The goal isn't just "learning to code" but mastering **Computational Thinking**. It builds a solid CS foundation, enabling you to learn any future technology with deep understanding rather than just writing code you don't grasp.
 
 ---
 
-## 🛣️ Course Roadmap (CS50x 2025 Weeks)
+## 🛠️ 3. Languages & Technologies | اللغات والتقنيات
 
-| Week | Core Topic | Languages/Concepts | Status | Notes Link |
-| :---: | :---: | :---: | :---: | :---: |
-| **0** | Scratch and Binary | Computational Thinking | ✅ Complete | [Notes: Week 0](Weeks/Week_0_Scratch_Binary.md) |
-| **1** | C Fundamentals | C Programming, Pointers | ✅ Complete | [Notes: Week 1](Weeks/Week_1_C_Fundamentals.md) |
-| **2** | Algorithms | Arrays, Searching, Sorting | 🚧 In Progress | Coming Soon... |
-| **3** | Memory | Pointers, Address Space | 🚧 In Progress | Coming Soon... |
-| **4** | Data Structures | Linked Lists, Hash Tables | ❌ Not Available | - |
-| **5** | Python | High-Level Programming | ❌ Not Available | - |
-| **6** | SQL | Databases, Relational Models | ❌ Not Available | - |
-| **7** | Web Development | HTML, CSS, JavaScript | ❌ Not Available | - |
-| **8** | Flask | Web Applications, APIs | ❌ Not Available | - |
-| **9** | Ethics and AI | Machine Learning (Optional) | ❌ Not Available | - |
+| Technology | Purpose | الغرض من التعلم |
+| :--- | :--- | :--- |
+| **C** | Low-level basics & Memory | فهم أساسيات الذاكرة والمستويات الدنيا |
+| **Python** | High-level & Efficiency | لغة عالية المستوى والكفاءة البرمجية |
+| **SQL** | Database Management | إدارة وتنظيم قواعد البيانات |
+| **HTML/CSS/JS** | Web Fundamentals | أساسيات بناء وتطوير الويب |
+| **Flask** | Web Frameworks | التعامل مع إطارات عمل الويب |
 
 ---
 
-## 📚 Getting Started with CS50x 2025
+## 🧠 4. What You Actually Learn | المهارات المكتسبة
 
-1.  **Enroll:** Register for the official [CS50x course on edX](https://www.edx.org/course/cs50s-introduction-to-computer-science-and-programming-2) (ensure you are on the 2025 track).
-2.  **Development Environment:** Set up your environment using the recommended **CS50 VS Code Environment** or the local VS Code installation.
-
-### 🎯 P-Set Guidance Policy
-
-> **⚠️ ATTENTION:** To preserve the integrity of the course and maximize your learning, **direct Problem Set solutions are strictly prohibited.**
->
-> * We provide **strategic hints, pseudocode structure, and conceptual reminders** within the weekly notes files to guide your thinking. Please treat this repository as a supplementary study aid, not a solution manual.
+1.  **Problem Solving:** المهارة الأهم التي تميز المهندس المحترف.
+2.  **Algorithms:** البحث عن الحلول الأكثر كفاءة وسرعة.
+3.  **Memory Management:** كيف يتعامل الكمبيوتر مع البيانات داخلياً.
+4.  **Clean Code:** كتابة كود منظم يسهل قراءته وصيانته.
+5.  **Self-Learning:** مهارة البحث والوصول للمعلومة بنفسك.
 
 ---
 
-## 📂 Repository Structure
+## 📅 5. Study System | نظام الدراسة
 
-The core learning materials are organized within the `Weeks` directory:
-
-* **Guidance and Hints:** Providing direction on how to approach the Problem Sets without giving away the solutions.
-
----
-
-## 🛣️ Course Roadmap (Weeks Overview)
-
-| Week | Core Topic | Languages/Tools | Status | Notes Available |
-| :---: | :---: | :---: | :---: | :---: |
-| **0** | Scratch and Binary | Computational Thinking | ✅ Complete | [Go to Notes](Weeks/Week_0_Scratch_Binary.md) |
-| **1** | C: Basics and Pointers | C | ✅ Complete | [Go to Notes](Weeks/Week_1_C_Basics.md) |
-| **2** | Algorithms and Searching | C | 🚧 In Progress | Coming Soon... |
-| **3** | Memory and Pointers | C | 🚧 In Progress | Coming Soon... |
-| **4** | Data Structures | C | ❌ Not Available | - |
-| **5** | Advanced Data Structures | Python | ❌ Not Available | - |
-| **6** | Python | Python | ❌ Not Available | - |
-| **7** | SQL and Databases | SQL | ❌ Not Available | - |
-| **8** | HTML, CSS, JavaScript | Web Development | ❌ Not Available | - |
-| **9** | Flask and Web Development | Python/Flask | ❌ Not Available | - |
-| **Final** | Final Project | Varies | ❌ Not Available | - |
+* **Lectures:** محاضرات سينمائية ممتعة يقدمها David J. Malan.
+* **Shorts:** فيديوهات مركزة تشرح مفاهيم تقنية معينة باختصار.
+* **Problem Sets:** تحديات برمجية أسبوعية تطبق فيها ما تعلمته.
+* **Final Project:** مشروع تخرج حر من اختيارك وتنفيذك.
 
 ---
 
-## 📚 Prerequisites to Get Started
+## 🔥 6. Difficulty Level | مستوى الصعوبة
 
-1.  **Enrollment:** Make sure you are registered for the official [CS50x course on edX](https://www.www.edx.org/course/cs50s-introduction-to-computer-science).
-2.  **Environment:** Set up your development environment, preferably using the official [CS50 IDE](https://ide.cs50.io/) or your local VS Code setup.
+الكورس معروف بصعوبته وتحدياته، وهذا هو سر قوته! الصعوبة هنا هدفها دفعك لأقصى حدودك الذهنية. التحدي الأكبر غالباً ما يكون في أسابيع لغة C، لكن المتعة تكمن في لحظة حل اللغز.
 
-### 🎯 How to Use This Repository
-
-For each week, navigate to the `Weeks` folder and look for the corresponding file (e.g., `Week_1_C_Basics.md`).
-
-#### Example: Week 1 - C Language
-
-**Key Concepts Covered:**
-
-* Libraries, Compilation, and Functions.
-* Variables, Data Types (`int`, `float`, `char`), and I/O.
-* Loops (`for`, `while`) and Conditional Statements (`if`, `else`).
-* The basics of pointers and memory addresses.
-
-**Notes on Problem Sets (P-Sets):**
-
-> **🚨 Important Notice:** This repository **does not provide direct solutions** to the Problem Sets. The core learning experience of CS50 comes from struggling with and solving the problems yourself.
->
-> * **Hints Section:** Inside the notes file for each week, you will find a dedicated section offering **hints and high-level thinking strategies** to guide you toward the correct solution without giving it away.
+The course is famous for its rigor, which is its greatest strength! The challenge is designed to push your mental limits. The peak difficulty is often in the C weeks, but the reward is that "Aha!" moment when you solve the puzzle.
 
 ---
 
-## 🛠️ Additional Resources and References
+## ⚠️ 7. Common Mistakes | أخطاء شائعة
 
-* **Official CS50 Website:** [https://cs50.harvard.edu/x/2025/](https://cs50.harvard.edu/x/2025/)
-* **C Reference Guide:** [Link to a comprehensive C language reference]
-* **CS50 YouTube Channel:** [Official CS50 YouTube Channel (for lecture review)]
+* ❌ **Passive Watching:** الاكتفاء بمشاهدة الفيديوهات دون كتابة الكود بنفسك.
+* ❌ **Copying Solutions:** البحث عن حلول جاهزة؛ هذا يقتل مهارة التفكير لديك.
+* ❌ **Rushing:** محاولة إنهاء الكورس بسرعة للحصول على الشهادة فقط.
+* ❌ **Ignoring Basics:** إهمال فهم كيفية عمل الذاكرة والانتقال سريعاً للغات السهلة.
 
 ---
 
-## 🤝 Contribution and Contact
+## 🚀 8. What’s Next? | ماذا بعد CS50x؟
 
-This is intended to be a community effort, and contributions are highly encouraged!
+الكورس يعطيك المفتاح، وأنت تختار الباب. بعد الانتهاء ستكون جاهزاً للانطلاق في مسارات مثل:
+**Web Development (Frontend/Backend), Data Science, AI, or Mobile Apps.**
 
-* **Found a Mistake?** Please create an **Issue** or submit a **Pull Request** to correct any errors.
-* **Want to Add Notes?** Feel free to contribute summaries for weeks that are currently marked as "Not Available."
+CS50x provides the key; you choose the door. Upon completion, you'll be ready for paths like Web Dev, Data Science, AI, or Mobile Development.
 
-**Get in Touch:** [Add a link to your community communication channel, e.g., a Discord server or Telegram group].
+---
 
-**Happy Coding!**
+## ⚖️ 9. Comparisons | مقارنات سريعة
+
+* **CS50x vs Tutorials:** اليوتيوب يعلمك "كيف"، لكن CS50 يعلمك "لماذا".
+* **CS50x vs Learning a Language:** تعلم لغة يجعلك مبرمجاً، لكن CS50 يجعلك مهندس برمجيات.
+
+---
+
+## ❓ 10. FAQ | أسئلة شائعة
+
+* **Is the certificate important?** العلم الذي تكتسبه هو الكنز الحقيقي، الشهادة مجرد توثيق.
+* **Is it suitable for non-English speakers?** نعم، مع هذا المستودع والمصادر المساعدة، ستتخطى حاجز اللغة بسهولة.
+* **Is it enough to get a job?** هو أساس قوي جداً، لكنك ستحتاج بعده للتخصص في مجال معين وبناء مشاريع.
+
+---
+
+## ✨ 11. Golden Tips | نصائح ذهبية
+
+* **Patience:** الصبر هو وقودك الأساسي في هذا الكورس.
+* **Consistency:** الالتزام الأسبوعي أهم من الحماس اللحظي.
+* **Debug your life:** تعلم أن تحب الأخطاء (Bugs) لأنها هي التي تعلمك حقاً.
+
+---
+<p align="center">
+  <b>Built for the next generation of Engineers</b><br>
+  <b>صُنع لتمكين الجيل القادم من المهندسين</b>
+</p>
