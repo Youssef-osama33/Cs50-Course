@@ -104,6 +104,9 @@ CS50x provides the key; you choose the door. Upon completion, you'll be ready fo
 
 ---
 
+
+
+
 ### 📫 تواصل معي
 
 <div align="center">
@@ -111,6 +114,9 @@ CS50x provides the key; you choose the door. Upon completion, you'll be ready fo
   <a href="mailto:yossef2319128@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYoussef-osama33%2FCs50-Course&label=VISITORS&labelColor=%2337d67a&countColor=%23263759&style=for-the-badge" />
+</div>
 ---
 
 <p align="center">
