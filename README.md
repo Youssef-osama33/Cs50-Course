@@ -101,6 +101,16 @@ CS50x provides the key; you choose the door. Upon completion, you'll be ready fo
 * **Debug your life:** تعلم أن تحب الأخطاء (Bugs) لأنها هي التي تعلمك حقاً.
 
 ---
+
+### 📫 تواصل معي
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/youssef-osama-53360a2a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yossef2319128@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+---
+
 <p align="center">
   <b>Built for the next generation of Engineers</b><br>
   <b>صُنع لتمكين الجيل القادم من المهندسين</b>
