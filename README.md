@@ -105,3 +105,5 @@ CS50x provides the key; you choose the door. Upon completion, you'll be ready fo
   <b>Built for the next generation of Engineers</b><br>
   <b>صُنع لتمكين الجيل القادم من المهندسين</b>
 </p>
+## 👀 Visitors
+![Visitor Count](https://profile-counter.glitch.me/Youssef-osama33/count.svg)
