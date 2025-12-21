@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge">
 </p>
 
+**Course Progress:** ![Progress](https://geps.dev/progress/10?dangerColor=ff0000&warningColor=ffff00&successColor=00ff00) 
+
 
 ---
 
